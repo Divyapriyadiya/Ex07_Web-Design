@@ -62,6 +62,7 @@ Enter option for doing the corresponding operation
 </p>
 </body>
 </html>
+~~~
 ## OUTPUT
 
 ![answer](https://github.com/Divyapriyadiya/Ex07_Web-Design/assets/128477941/39ca024d-06b5-4e00-a0ba-d6b84b84053f)
